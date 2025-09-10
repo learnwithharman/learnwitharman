@@ -1,18 +1,20 @@
 # learnwitharman
-This repo includes my learnings and progress over time 
+This repo includes my learnings and progress over time  
 <br>
-Author - Harman
-# Edu Monk - Simple HTML Landing Page 🌐
+Author - Harman  
+
+# Edu Monk - Stylish Landing Page 🌐
 
 ## 📌 About the Project
-Edu Monk ek simple **HTML based landing page** hai jo maine web development seekhne ke liye banaya.  
-Is project ka main idea tha ek clean aur minimal page banana jisme header, hero section aur footer jaise basic parts ho.  
-Isme koi advanced CSS/JS nahi hai, sirf plain HTML use hua hai taaki basics clear ho aur structure samajh aaye.  
+Edu Monk ek simple **HTML + CSS landing page** hai jo maine web development seekhne ke liye banaya.  
+Pehle version me sirf HTML tha (basic structure), lekin ab maine **modern CSS** add karke design ko stylish aur interactive banaya hai.  
+Is project ka main purpose tha **HTML + CSS basics ko practically samajhna** aur ek real-world landing page ka demo create karna.  
 
 ## ✨ Key Highlights
-- 🏗️ Pure HTML structure (no CSS, no JS)
-- 🧩 Basic sections included (Header, Hero, Features, Footer)
-- 👨‍💻 Beginner-friendly code
-- 🚀 Can be extended later with CSS/JS for styling and interactivity
-
-## 📂 File Structure
+- 🏗️ Clean HTML structure with responsive layout
+- 🎨 Custom CSS for styling (dark theme + neon accents)
+- 🔝 Fixed navbar with glassmorphism effect
+- ⚡ Hero section with heading, description & buttons
+- 📊 Features & Stats section (card hover effects included)
+- 🦶 Footer with links & branding
+- 👨‍💻 Beginner-friendly code, easily extendable with JS
